@@ -1,1 +1,1 @@
-# assignment_coursera
+# 'The battle of neighborhoods data science'
